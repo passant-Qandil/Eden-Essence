@@ -55,24 +55,22 @@ Based on the previous analyses:
 - Set SMART marketing objectives.
 - Create evidence-based buyer persona(s).
 - Define Eden Essence's Unique Selling Proposition (USP).
-
+#### step 5 : 
+#### step 6 : 
 ---
 
 ### Roles & Responsibilities
-- Team Leader: Coordinate project activities, follow up on progress, and support the organization of project deliverables.
-- Team Members: Conduct research, contribute to analysis, and complete assigned tasks according to the team's agreed distribution.
-
-Individual team roles and responsibilities will be added once the final task allocation is confirmed.
+- **Team Leader:** Coordinate the team's progress and ensure alignment with the instructor's requirements.
+- **All Team Members:** Each team member is responsible for collecting and preparing all required data and deliverables specified by the instructor, Dr. Tamer Elmoghazy, and following the project steps sequentially according to his guidance and instructions.
 
 ### Key Performance Indicators (KPIs)
 
-#### Project Completion KPIs
-- Number of competitor accounts analyzed against the assigned target.
-- Completion of the customer analysis comparison table.
-- Completion of the internal brand analysis.
-- Completion of the competitive and PEST analyses.
-- Completion of the SWOT analysis, SMART objectives, buyer persona(s), and USP.
-
+- Completion of all project steps according to the instructor's requirements.
+- Collection and documentation of the required data for each step.
+- Analysis of 10 competitor accounts per team member.
+- Accuracy and organization of the collected data.
+- Completion of all required analyses and deliverables.
+- Following the instructor's guidance and feedback throughout the project.
 #### Marketing Performance KPIs
 - Sales and conversion performance.
 - Cost per Acquisition (CPA), when paid campaigns are implemented.
