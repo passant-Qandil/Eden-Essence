@@ -15,13 +15,14 @@ The project focuses on understanding Eden Essence's target customers, evaluating
 - DEPI Group: YAT779B_CAI5_DRT1_G1_DEPI5
 - Team: Group 1
 - Team Leader: Passant Muhammad Muhammad Qandil
-- Team Members:
-- Tamer Mahmoud Abdel aziz Mohamed - 21160345
-- Passant Muhammad Muhammad Qandil - 21162581
-- Sarah Ismail Hamzah Ahmed - 21176814
-- Eman Adel Owias ElSaify - 21174193
-- Sherif Essam Nassr Mahmoud - 21180793
-- Ahmed Khaled Fouad Ahmed - 21177465
+
+#### Team Members
+- Tamer Mahmoud Abdel Aziz Mohamed
+- Passant Muhammad Muhammad Qandil
+- Sarah Ismail Hamzah Ahmed
+- Eman Adel Owias ElSaify
+- Sherif Essam Nassr Mahmoud
+- Ahmed Khaled Fouad Ahmed
 
 ### Instructor
 Dr. Tamer Elmoghazy
@@ -55,40 +56,40 @@ Based on the previous analyses:
 - Set SMART marketing objectives.
 - Create evidence-based buyer persona(s).
 - Define Eden Essence's Unique Selling Proposition (USP).
-#### step 5 : 
-#### step 6 : 
----
 
 ### Roles & Responsibilities
-- **Team Leader:** Coordinate the team's progress and ensure alignment with the instructor's requirements.
-- **All Team Members:** Each team member is responsible for collecting and preparing all required data and deliverables specified by the instructor, Dr. Tamer Elmoghazy, and following the project steps sequentially according to his guidance and instructions.
+- **Team Leader:** Coordinate team progress, follow up on deliverables, and help ensure alignment with the instructor's requirements.
+- **All Team Members:** Collect and document the required data, complete assigned deliverables, and follow each project step according to Dr. Tamer Elmoghazy's instructions and guidance.
 
 ### Key Performance Indicators (KPIs)
 
+#### Project Completion KPIs
 - Completion of all project steps according to the instructor's requirements.
 - Collection and documentation of the required data for each step.
 - Analysis of 10 competitor accounts per team member.
-- Accuracy and organization of the collected data.
+- Accuracy and organization of collected data.
 - Completion of all required analyses and deliverables.
 - Following the instructor's guidance and feedback throughout the project.
-#### Marketing Performance KPIs
-- Sales and conversion performance.
-- Cost per Acquisition (CPA), when paid campaigns are implemented.
-- Reach and engagement.
-- Qualified customer inquiries.
-- Website traffic, where measurable.
 
-Marketing performance targets will be defined based on available baseline data and the approved marketing objectives.
+#### Marketing Performance KPIs
+- **Brand Awareness:** Reach and impressions.
+- **Audience Engagement:** Engagement rate, comments, shares, and saves.
+- **Customer Interest:** Number of customer inquiries and messages.
+- **Website Traffic:** Number of website visitors, where measurable.
+- **Sales Performance:** Number of orders and total sales.
+- **Customer Acquisition Cost (CPA):** Cost of acquiring a customer when paid campaigns are implemented.
+
+Marketing performance targets will be defined based on available baseline data and approved marketing objectives.
 
 ### Project Files & Resources
-- GitHub Repository: https://github.com/passant-Qandil/Eden-Essence
-- Brand Website: https://edennessence-eg.com/
-- Instagram: https://www.instagram.com/edenessence.eg/
-- Customer Analysis: To be added
-- Internal Brand Analysis: To be added
-- Competitive and PEST Analysis: To be added
-- SWOT and Marketing Strategy: To be added
-- Final Presentation: To be added
+- **GitHub Repository:** https://github.com/passant-Qandil/Eden-Essence
+- **Brand Website:** https://edennessence-eg.com/
+- **Instagram:** https://www.instagram.com/edenessence.eg/
+- **Customer Analysis:** To be added
+- **Internal Brand Analysis:** To be added
+- **Competitive and PEST Analysis:** To be added
+- **SWOT and Marketing Strategy:** To be added
+- **Final Presentation:** To be added
 
 ### Project Status
 In Progress
