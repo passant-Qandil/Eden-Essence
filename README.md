@@ -57,6 +57,33 @@ Based on the previous analyses:
 - Create evidence-based buyer persona(s).
 - Define Eden Essence's Unique Selling Proposition (USP).
 
+### Step 5: Marketing Mix & Social Media Content Calendar
+
+Based on the findings and strategic decisions from Steps 1–4:
+
+#### 5.1 Marketing Mix (4Ps)
+- Develop Eden Essence's marketing mix covering Product, Price, Place, and Promotion.
+- Align product positioning and value proposition with the identified target audience and customer needs.
+- Review pricing in relation to competitor pricing, perceived value, and the brand's accessible-premium positioning.
+- Identify suitable sales and distribution channels based on the brand's current presence and available resources.
+- Develop promotional recommendations that support brand awareness, customer trust, engagement, and sales objectives.
+- Ensure all recommendations are supported by available research, with assumptions clearly identified.
+
+#### 5.2 Social Media Content Calendar
+- Create a social media content calendar from the implementation start date through November 30, 2026.
+- Schedule content every other day.
+- Select the most suitable platforms based on the target audience, brand presence, and strategic objectives.
+- Define content pillars aligned with the brand's positioning, USP, buyer personas, and customer pain points.
+- Specify the publishing date, platform, content pillar, post idea, content format, objective, CTA, and relevant KPI for each planned post.
+- Balance educational, engagement-focused, product-focused, trust-building, and promotional content.
+- Adapt content formats and messaging to the selected platforms.
+- Monitor content performance and recommend adjustments based on available results.
+
+**Deliverables:**
+- Eden Essence Marketing Mix (4Ps).
+- Social Media Content Calendar through November 30, 2026.
+- Content strategy rationale and proposed performance measurement framework.
+  
 ### Roles & Responsibilities
 - **Team Leader:** Coordinate team progress, follow up on deliverables, and help ensure alignment with the instructor's requirements.
 - **All Team Members:** Collect and document the required data, complete assigned deliverables, and follow each project step according to Dr. Tamer Elmoghazy's instructions and guidance.
