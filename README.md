@@ -109,14 +109,10 @@ Based on the findings and strategic decisions from Steps 1–4:
 Marketing performance targets will be defined based on available baseline data and approved marketing objectives.
 
 ### Project Files & Resources
+- [Google Drive – Project Files](https://drive.google.com/drive/folders/13Rk-1fY4lR-uz7ZG09uceKC_pIAcHWXW)
 - **GitHub Repository:** https://github.com/passant-Qandil/Eden-Essence
 - **Brand Website:** https://edennessence-eg.com/
 - **Instagram:** https://www.instagram.com/edenessence.eg/
-- **Customer Analysis:** To be added
-- **Internal Brand Analysis:** To be added
-- **Competitive and PEST Analysis:** To be added
-- **SWOT and Marketing Strategy:** To be added
-- **Final Presentation:** To be added
 
 ### Project Status
 In Progress
